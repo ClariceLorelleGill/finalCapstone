@@ -1,0 +1,4 @@
+admin;password
+Lorelle;blue
+Lorele;blue
+lorelle;blue
